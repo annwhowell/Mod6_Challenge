@@ -42,12 +42,12 @@ The two files get concatenated into a new file called all_neighborhoods_df
 **Section 2:** Calculates and plots the average sale price per square foot as a line graph
 with lines for sale price per square foot and gross rent.
     
-![Avg Prices Line Chart](Images/Howell_avg_prices_ line_chart.png)    
+![Avg Prices Line Chart](Images/Howell_avg_prices_line_chart.png)    
 
 **Section 3:** Compares the average price by neighborhood and creates an interactive
 hvplot that can sort the data by neighborhood.
     
-![Interactive Neighborhood Plot](http://localhost:8888/lab/tree/Images/Howell_prices_line_chart_by_neighborhood.png)
+![Interactive Neighborhood Plot](Images/Howell_prices_line_chart_by_neighborhood.png)
 
 **Section 4:** Builds an interactive neighborhood map using geolocation
 
