@@ -35,21 +35,29 @@ The two files get concatenated into a new file called all_neighborhoods_df
 
 # Sections
 
-Section 1: Calculates and plots the number of housing units per year in a bar chart.
+**Section 1:** Calculates and plots the number of housing units per year in a bar chart.
 
-Section 2: Calculates and plots the average sale price per square foot as a line graph
+![Bar chart](./Images/Howell Housing Units bar chart.png)
+
+**Section 2:** Calculates and plots the average sale price per square foot as a line graph
 with lines for sale price per square foot and gross rent.
+    
+![Avg Prices Line Chart](Images/Howell Avg prices line chart.png)    
 
-Section 3: Compares the average price by neighborhood and creates an interactive
+**Section 3:** Compares the average price by neighborhood and creates an interactive
 hvplot that can sort the data by neighborhood.
+    
+![Interactive Neighborhood Plot](./Images/Howell prices line chart by neighborhood.png)
 
-Section 4: Builds an interactive neighborhood map using geolocation
+**Section 4:** Builds an interactive neighborhood map using geolocation
 
 This map marks locations with a circle that is sized to show sale price per square foot - 
 larger circle means higher price.
 
 The color intensity of each circle indicates relative gross rent amount - darker color
 indicates higher gross rent.
+    
+![Geo Spatial Map](./Images/Howell geo spatial map.png)    
 
 
 # Creator
